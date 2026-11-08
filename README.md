@@ -14,5 +14,4 @@ Group project (team of 3) for the Database Systems course.
 - Prerequisite handling for courses
 
 ## Files
-- ERD and EERD images
-[DB_Project_GitHub.docx](https://github.com/user-attachments/files/34557682/DB_Project_GitHub.docx)
+- [DB_Project_Report.pdf](DB_Project_Report.pdf): full project report with ERD, EERD and normalization steps
