@@ -1,2 +1,18 @@
-# course-registration-db-design
-Database design for a university course registration system: ERD, EERD and normalization to 3NF
+# University Course Registration Database Design
+
+Database design for a university course registration and management system.
+Group project (team of 3) for the Database Systems course.
+
+## What is included
+- ERD and EERD (full-time and visiting instructor specialization)
+- Normalization from UNF to 1NF, 2NF and 3NF
+- Final relational schema with data types and constraints
+
+## Highlights
+- 13 entities, including students, courses, course offerings, enrollment and timetable
+- Many-to-many teaching relationship (co-teaching allowed)
+- Prerequisite handling for courses
+
+## Files
+- ERD and EERD images
+[DB_Project_GitHub.docx](https://github.com/user-attachments/files/34557682/DB_Project_GitHub.docx)
